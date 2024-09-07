@@ -16,21 +16,28 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Learning Backend (Next.JS)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+-> Express.JS vs Next.JS
 
-## Learn More
+-> Creating Next App
 
-To learn more about Next.js, take a look at the following resources:
+-> API Route & Route Handler
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-> Nested Routes
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+-> Dynamic Route, Static data, Postman
 
-## Deploy on Vercel
+-> Advanced routing params
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+-> CRUD Operations
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+-> Restful API with fetch
+
+-> Redirect using Middleware
+
+-> Contact Form with Next.JS & MongoDB
+
+-> Multiple Route, working with Dynamic routes & static data
+
+-> Query Params & CRUD operation ...
